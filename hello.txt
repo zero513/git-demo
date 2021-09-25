@@ -8,6 +8,5 @@ hello git!!!
 hello git!!!
 hello git!!!
 hello git!!!
-hello git!!!
-hello git!!!
+hello git!
 hello git!!!77777hot-fix
